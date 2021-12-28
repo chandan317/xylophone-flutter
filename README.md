@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+[comment]: <> (![App Brewery Banner]&#40;https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png&#41;)
 
 
 # Xylophone 🎹
